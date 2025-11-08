@@ -3,15 +3,15 @@ Aplicación full-stack para gestionar empleados. El backend expone un API REST c
 
 ## 🖼️ Vista previa
 
-# Listado
+### Listado
 
 <img width="1422" height="472" alt="Inicio" src="https://github.com/user-attachments/assets/087741a0-2159-4e18-b58f-7c399d4a7f89" />
 
-#Agregar Empleado
+### Agregar Empleado
 
 <img width="1423" height="548" alt="agregar" src="https://github.com/user-attachments/assets/97358816-8920-4ee1-b433-d01a0967607b" />
 
-#Editar Empleado
+### Editar Empleado
 
 <img width="1424" height="528" alt="editar" src="https://github.com/user-attachments/assets/8c742f9b-16f8-482a-943a-98be332afbbf" />
 
