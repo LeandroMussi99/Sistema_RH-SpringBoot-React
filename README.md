@@ -55,7 +55,7 @@ Herramientas: Maven Wrapper · npm
 ## 🚀 Cómo correrlo localmente
 
 Requisitos: Java 21, Maven 3.9+, Node 18+, MySQL 8+.
-
+```text
 1) Backend (Spring Boot)
    Configura tus credenciales en recursos-humanos-spring/src/main/resources/application.properties:
    spring.datasource.url=jdbc:mysql://localhost:3306/recursos_humanos_db?createDatabaseIfNotExist=true
@@ -72,7 +72,7 @@ Instala dependencias e inicia el dev server:
 cd recursos-humanos-app
 npm install
 npm start
-
+```
 
 ## 🔗 Endpoints principales
 
